@@ -23,15 +23,6 @@ let finalnoRjesenje= (str.length-rjesenje)-1;
 console.log(finalnoRjesenje);
 
 
-// function Rjesenje(){
-// let brojac =0;
-// for(let j =rjesenje ;j<str.length;j++){
-//     brojac++;
-//     if(str[j]=== ' ') return j;
-//  }}
-
-//  let finalnoRjesenje = Rjesenje(str);
-// console.log(finalnoRjesenje);
 
 
 
